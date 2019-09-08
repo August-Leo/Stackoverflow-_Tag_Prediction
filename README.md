@@ -9,6 +9,7 @@ Based on the type of tags assigned to questions, the top eight most discussed to
 The objective of this model is to suggest the tags based on the content that was there in the question posted on Stackoverflow.
 
 Functional Domain: Internet (Online learning)
+
 Technical Domain: Natural Language Processing, Predictive modeling (Multilabel classification)
 
 Algorithms/Approach: Multilabel classification(Performance metric Micro F1 Score), SQLLite to manage data, Tags Analysis, Natural Language Processing, Logistic Regression with OneVsRest Classifier.
